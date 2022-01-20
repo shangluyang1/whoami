@@ -40,7 +40,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 * Reza, Mohsin          
 * Sanchez, Mark JP      
 * Shan, Xinpeng         
-* Shang, Luyang         
+* Shang, Luyang  I am from china, i love playing video game in my spare time.
 * Tang, Shi             
 * Wu, Fei             
 * Zhou, Shiyuan         
